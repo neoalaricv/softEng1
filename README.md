@@ -12,5 +12,5 @@ Oracle Cloud Infrastructure Foundations 2022 - Date Achieved: 11/24/2022
 
 SQL and Relational Databases 101 - Date Achieved: 11/04/2022
 
-#Skill Sets
+# Skill Sets
 Java, C#, Data Management
