@@ -5,8 +5,7 @@ BS Computer Science
 A.Y. 2021-Present
 
 # Certifications
-SkillUp Business Analytics with Excel
-Date Achieved: 09/07/2023
+SkillUp Business Analytics with Excel - Date Achieved: 09/07/2023
 
 Oracle Cloud Data Management Foundations 2022
 Date Achieved: 12/09/2022
